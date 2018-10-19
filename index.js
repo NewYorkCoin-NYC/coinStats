@@ -2,11 +2,11 @@
 'use strict';
 
 var addr2name = new Object();
-addr2name['RJw4N1ZL19DubLVtGSkX26sBfdyg9Z1Jxt'] = 'prohashing.com';
-addr2name['RXV1EtSArmdA4L6UV1d2Gz6uX4h67S5wwx'] = 'hobbyistpool.ddns.net/nyc - Developer Pool';
+addr2name['RLLSAY58uQt3bxt42Uk84ZN66vtgSWzsY7'] = 'prohashing.com';
+addr2name['RBhk1s8NEgZ9TZVyiH2wxxqPxrVyXpM4Ty'] = 'hobbyistpool.ddns.net/nyc - Developer Pool';
 addr2name['RMR7DfZEBPDyXd1rCbARAK7YQMMSPByz79'] = 'nyc.mypool.club';
-addr2name['RQrGu6KtsYMbH6cRNiQdnLcy4meofzAWHS'] = 'mastermining.net';
-addr2name['RB8trkrKbXQ8AaRhnUxcdBNnc4swCynRDF'] = 'mining-dutch.nl';
+addr2name['REcyGZvZYq89toNYAGgq8DH5W3vhR7VSQr'] = 'mastermining.net';
+addr2name['RQymVdT6khS1WrBJrp6W3eEAbudHYi9CGd'] = 'mining-dutch.nl';
 addr2name['RGZ2JZEFsRgEqngQn4vUYi2mPydMWygPdX'] = 'zpool.ca';
 addr2name['RMkqWYHQuN9a4XsrP3CgHnmpnaUvcSp95p'] = 'gigarho.com';
 addr2name['RMR7DfZEBPDyXd1rCbARAK7YQMMSPByz79'] = 'nyc.mypool.club';
